@@ -1,0 +1,32 @@
+.btn-danger {
+    color: black;
+    background-color: #00F9A5;
+    border-color: #00F9A5;
+}
+.jumbotron{
+	background: url(../images/header.jpg);
+	color: white;
+	padding-left: 40px;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+h2{
+	font-size: 20px;
+	text-align:center;
+	margin: 40px;
+}
+h3{
+	font-size: 0.9em;
+	text-align:center;
+	margin: 40px;
+	margin-top: -30px;
+}
+body{
+	font-family: "microsoft yahei";
+	margin-bottom: 5%;
+}
+footer{
+	padding: 0px;
+	margin: 40px;
+}
